@@ -1,2 +1,15 @@
 1. Decide which business to order from
 2. Decide which type of pizza to order
+<<<<<<< HEAD
+=======
+3. Decide whether they forgot your diet doctor kelp
+bool doctor_kelp;
+doctor_kelp = Convert.ToBoolean(Console.ReadLine());
+if doctor_kelp == true {
+    Console.WriteLine("Devour pizza");
+    Console.WriteLine("Chug doctor kelp");
+}
+else {
+    Console.WriteLine("Complain");
+}
+>>>>>>> test
