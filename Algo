@@ -5,6 +5,7 @@ bool doctor_kelp;
 doctor_kelp = Convert.ToBoolean(Console.ReadLine());
 if doctor_kelp == true {
     Console.WriteLine("Devour pizza");
+    Consolde.WriteLine("Chug doctor kelp");
 }
 else {
     Console.WriteLine("Complain");
